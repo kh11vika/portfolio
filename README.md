@@ -1,24 +1,24 @@
 # Portfolio
 
-Привет! Меня зовут **Вика**, я аналитик данных и студентка 4 курса **НИУ ВШЭ (ОП «Экономика»)**.  
-📚 Изучаю **экономику**, **машинное обучение**, **эконометрику** и **бизнес-анализ**.  
+Hi! My name is **Vika** — I’m a **data analyst** and a 4th-year student at the **HSE University (Economics program)**.
+📚 I study **economics**, **machine learning**, **econometrics**, and **business analytics**.
 
-🏃‍♀️ Вне учёбы и работы я часто **бегаю** и 🎧 **слушаю подкасты/книги** - это мой способ перезагрузиться и наметить новые идеи.  
+🏃‍♀️ Outside of studying and work, I often **go running** and 🎧 **listen to podcasts or audiobooks** — it’s my way to recharge and spark new ideas.
 
-💡 Мне интересно соединять **экономику и данные** — строить модели, которые помогают бизнесу принимать решения и понимать экономические процессы.  
-💖 Люблю **структурированные данные**, **визуализации** и **аккуратные выводы**.
+💡 I’m passionate about combining **economics and data** — building models that help businesses make better decisions and understand economic processes.
+💖 I love **clean data**, **visualizations**, and **well-structured conclusions**.
 
 
 ---
 
-## Контакты
+## Contacts
 Email: *[kh11vika@yandex.ru] , [victoriakhachatrian@gmail.com]*  
 Telegram: [@kh11vika](https://t.me/kh11vika)  
 GitHub: [github.com/kh11vika](https://github.com/kh11vika)
 
 ---
 
-## Навыки
+## Skills
 `Python`  
 `Excel / Google Sheets`  
 `SQL`  
@@ -29,10 +29,10 @@ GitHub: [github.com/kh11vika](https://github.com/kh11vika)
 
 ---
 
-## Мои проекты 
+## My Projects 
 ---
 
-## Машинное обучение
+## Machine Learning
 1. [Линейная регрессия](Homework1_KhachatryanViktoria.ipynb)  
 2. [Target Encodind (Random Forest, SVM, KNN)](homework2_KhachatryanViktoria.ipynb)  
 3. [Обучение моделей классификации и их оценка](homework3_KhachatryanViktoria.ipynb)  
@@ -40,7 +40,7 @@ GitHub: [github.com/kh11vika](https://github.com/kh11vika)
 
 ---
 
-## Макроэкономика
+## Macroeconomics
 1. [Forecasting Inflation in Australia (1985–2024)](Australia_Code)
    [Данные](Australia_Data)
    [Текстовый файл](Australia_Report)
@@ -52,7 +52,7 @@ GitHub: [github.com/kh11vika](https://github.com/kh11vika)
    [Текстовый файл](Chile_Report)
 ---
 
-## Эконометрика
+## Еconometrics
 1. [Migration Attractiveness](Migration_Attractiveness)
    [Код](code_migration.R)
    [Данные](data_migration.xlsx)
