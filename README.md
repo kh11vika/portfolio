@@ -38,9 +38,14 @@ GitHub: [github.com/kh11vika](https://github.com/kh11vika)
 
 ## Макроэкономика
 1. [Forecasting Inflation in Australia (1985–2024)](Australia_Code)
-3. [🇸🇪 Fiscal Rule Analysis — Sweden](https://github.com/kh11vika/portfolio/tree/main/Fiscal_Rule_Sweden)  
-4. [🇷🇺 Structural Shifts in the Russian Economy](https://github.com/kh11vika/portfolio/tree/main/Structural_Shifts_Russia)
-
+   [Данные](Australia_Data)
+   [Текстовый файл](Australia_Report)
+3. [Fiscal Rule Analysis — Sweden](Sweden_Code)
+   [Данные](df_sweden.csv)
+   [Текстовый файл](Sweden_Report)
+5. [Fiscal Rule Analysis — Chile](Chile_Code)
+   [Данные](df_chile.csv)
+   [Текстовый файл](Chile_Report)
 ---
 
 ## 📈 Эконометрика
