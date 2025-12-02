@@ -32,4 +32,4 @@ GitHub: [github.com/kh11vika](https://github.com/kh11vika)
 ## My Projects 
 ---
 
-You can explore my projects in the folders below — each one was completed as part of my university studies and showcases different aspects of my work and interests in data analysis, economics, and machine learning.
+You can explore my projects in the folders — each one was completed as part of my university studies and showcases different aspects of my work and interests in data analysis, economics, and machine learning.
