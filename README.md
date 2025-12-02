@@ -14,7 +14,6 @@ Hi! My name is **Vika** — I’m a **data analyst** and a 4th-year student at t
 ## Contacts
 Email: *[kh11vika@yandex.ru] , [victoriakhachatrian@gmail.com]*  
 Telegram: [@kh11vika](https://t.me/kh11vika)  
-GitHub: [github.com/kh11vika](https://github.com/kh11vika)
 
 ---
 
