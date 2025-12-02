@@ -32,32 +32,5 @@ GitHub: [github.com/kh11vika](https://github.com/kh11vika)
 ## My Projects 
 ---
 
-## Machine Learning
-1. [Линейная регрессия](Homework1_KhachatryanViktoria.ipynb)  
-2. [Target Encodind (Random Forest, SVM, KNN)](homework2_KhachatryanViktoria.ipynb)  
-3. [Обучение моделей классификации и их оценка](homework3_KhachatryanViktoria.ipynb)  
-4. [Подбор гиперпараметров модели](homework4_KhachatryanViktoria_1.ipynb)
-
----
-
-## Macroeconomics
-1. [Forecasting Inflation in Australia (1985–2024)](Australia_Code)
-   [Данные](Australia_Data)
-   [Текстовый файл](Australia_Report)
-3. [Fiscal Rule Analysis — Sweden](Sweden_Code)
-   [Данные](df_sweden.csv)
-   [Текстовый файл](Sweden_Report)
-5. [Fiscal Rule Analysis — Chile](Chile_Code)
-   [Данные](df_chile.csv)
-   [Текстовый файл](Chile_Report)
----
-
-## Еconometrics
-1. [Migration Attractiveness](Migration_Attractiveness)
-   [Код](code_migration.R)
-   [Данные](data_migration.xlsx)
-2. [Life Expectancy Metric](Life_Expectancy_Metric)
-   [Код](code.ipynb)
-   [Данные](life_expect.xlsx)
 
 
