@@ -32,3 +32,12 @@ Telegram: [@kh11vika](https://t.me/kh11vika)
 ---
 
 You can explore my projects in the folders — each one was completed as part of my university studies and showcases different aspects of my work and interests in data analysis, economics, and machine learning.
+
+---
+
+### Tableau Visualizations
+
+Here are some of my data visualization projects created in **Tableau Public**:
+
+**British Airways Reviews Dashboard** [View on Tableau Public](https://public.tableau.com/shared/W3Z6N7NXJ?:display_count=n&:origin=viz_share_link) 
+
