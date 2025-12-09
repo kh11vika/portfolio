@@ -42,3 +42,5 @@ Here are some of my data visualization projects created in **Tableau Public**:
 **British Airways Reviews Dashboard** [View on Tableau Public](https://public.tableau.com/shared/W3Z6N7NXJ?:display_count=n&:origin=viz_share_link) 
 
 **Sales Dashboard** [View on Tableau Public](https://public.tableau.com/views/TableauDashboard2_17647648168970/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Pizza Sales Dashboard** [View on Tableau Public](https://public.tableau.com/shared/69NGZNGRN?:display_count=n&:origin=viz_share_link)
